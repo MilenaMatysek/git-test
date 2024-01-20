@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 console.log(Dolor ipsum)
 
-console.log( Dolor*2)
+
+=======
+const result=444;
+console.log(result)
+console.log("witajgit ')
+>>>>>>> main
